@@ -1,0 +1,8 @@
+@font-face {
+    font-family: myFont;
+    src: url(Bespoke-a1a5vpm2Rg.otf);
+}
+
+body {
+        font-family: myFont;
+}
